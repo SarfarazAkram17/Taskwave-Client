@@ -16,7 +16,7 @@
 - 👥 **User Authentication**
   - Users can register, log in, and log out using Firebase Authentication.
 
-- ➕ **Add & Manage Tasks**
+- ➕ **Add & Manage Tasks** 
   - Easily add new tasks and manage your posted tasks.
 
 - 🔎 **Browse Tasks**
